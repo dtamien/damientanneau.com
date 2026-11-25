@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://damientanneau.com/sitemap.xml
